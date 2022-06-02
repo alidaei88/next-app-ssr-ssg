@@ -1,0 +1,31 @@
+.header {
+    width: 100%;
+    margin: auto;
+    background-color: #E0D8B0;
+    text-align: center;
+    padding: 2rem;
+}
+
+.postsContainer {
+
+    background-color: #FCFFE7;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.postContainer {
+    background-color: #FCFFE7;
+    border: 2px solid #CE9461;
+    margin: 1rem;
+    padding: 1rem;
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.postTitle{
+    font-weight: 800;
+    color: #46244C;
+}
